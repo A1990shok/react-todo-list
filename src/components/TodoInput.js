@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
-export default class Todoinput extends Component {
+export default class TodoInput extends Component {
   render() {
-    return <h1>hello from Todo input</h1>;
+    return <h1>hello from todo input</h1>;
   }
 }
